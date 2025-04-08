@@ -20,7 +20,9 @@ The python file should be stored in one directory among the other files, in whic
 Like so:
 
 
-/....
+/..........
+
+
  generator.py
 
  
