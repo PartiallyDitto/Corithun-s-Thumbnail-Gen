@@ -1,10 +1,14 @@
 # Corithun-s-Thumbnail-Gen
 An open-source way to generate goofy thumbnails.
+
+
 How to use:
+
+
 For previewing how this works in a lightweight version go to: 
 https://corithun.w3spaces.com/
 
-The Python repository is able to instantly be used, the images that are used as examples are available, but never need
+The Python repository, however, is able to instantly be used, the images that are used as examples are available, but never need
 to be named, just in their respective (people) and (people_backgrounds) folders.
 
 
